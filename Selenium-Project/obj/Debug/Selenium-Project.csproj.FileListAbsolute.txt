@@ -1,0 +1,11 @@
+C:\Users\Samet\Desktop\Selenium-Project\Selenium-Project\bin\Debug\Selenium-Project.exe.config
+C:\Users\Samet\Desktop\Selenium-Project\Selenium-Project\bin\Debug\Selenium-Project.exe
+C:\Users\Samet\Desktop\Selenium-Project\Selenium-Project\bin\Debug\Selenium-Project.pdb
+C:\Users\Samet\Desktop\Selenium-Project\Selenium-Project\bin\Debug\WebDriver.dll
+C:\Users\Samet\Desktop\Selenium-Project\Selenium-Project\bin\Debug\WebDriver.xml
+C:\Users\Samet\Desktop\Selenium-Project\Selenium-Project\obj\Debug\Selenium-Project.csprojResolveAssemblyReference.cache
+C:\Users\Samet\Desktop\Selenium-Project\Selenium-Project\obj\Debug\Selenium_Project.Form1.resources
+C:\Users\Samet\Desktop\Selenium-Project\Selenium-Project\obj\Debug\Selenium_Project.Properties.Resources.resources
+C:\Users\Samet\Desktop\Selenium-Project\Selenium-Project\obj\Debug\Selenium-Project.csproj.GenerateResource.Cache
+C:\Users\Samet\Desktop\Selenium-Project\Selenium-Project\obj\Debug\Selenium-Project.exe
+C:\Users\Samet\Desktop\Selenium-Project\Selenium-Project\obj\Debug\Selenium-Project.pdb
